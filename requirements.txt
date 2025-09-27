@@ -29,4 +29,13 @@ jupyter>=1.0.0
 # For best performance, Python 3.8+ is recommended
 
 
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+scipy
+Pillow
+jupyter
 
