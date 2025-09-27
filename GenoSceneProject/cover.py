@@ -4,7 +4,8 @@ import pathlib
 
 st.set_page_config(layout="wide")
 
-html_path = pathlib.Path("genoscene.html")
+html_path = pathlib.Path("GenoSceneProject
+/genoscene.html")
 
 if html_path.exists():
     with open(html_path, "r", encoding="utf-8") as f:
