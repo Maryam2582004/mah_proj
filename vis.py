@@ -1,6 +1,6 @@
-   import streamlit as st
-   import pandas as pd
-   import os
+import streamlit as st
+import pandas as pd
+import os
    # استيراد الدوال من الملفات الأخرى (عدلي حسب الريبو)
    # from phenotypicprediction import predict_phenotypes  # غيري حسب الكود الحقيقي
    # from plotphenodc import plot_phenotypes  # مثال
