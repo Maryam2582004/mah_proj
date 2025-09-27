@@ -28,6 +28,5 @@ jupyter>=1.0.0
 # Note: This system is designed to work with Python 3.7+
 # For best performance, Python 3.8+ is recommended
 
-streamlit
-pandas
-numpy
+
+
